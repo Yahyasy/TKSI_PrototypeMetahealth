@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MetaHealth",
+  "description": "A proactive health partner app for managing diabetes and wellness with AI integration, smartwatch syncing, and detailed health reporting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
